@@ -4,7 +4,7 @@ description: Bullet points and numbered lists
 ---
 
 
-## Bulleted list
+## 1. Bulleted list
 
 ### Basic
 
